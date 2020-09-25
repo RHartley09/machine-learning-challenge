@@ -1,0 +1,1 @@
+Use all columns in the dataset. Use logistic regression not linear.  
